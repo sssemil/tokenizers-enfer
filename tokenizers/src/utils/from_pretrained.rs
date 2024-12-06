@@ -1,5 +1,5 @@
 use crate::Result;
-use hf_hub::{api::sync::ApiBuilder, Repo, RepoType};
+use hf_hub_enfer::{api::sync::ApiBuilder, Repo, RepoType};
 use std::collections::HashMap;
 use std::path::PathBuf;
 
