@@ -2,7 +2,7 @@
 authors = ["Anthony MOI <m.anthony.moi@gmail.com>", "Nicolas Patry <patry.nicolas@protonmail.com>"]
 edition = "2018"
 name = "tokenizers-enfer"
-version = "0.21.0-dev.1"
+version = "0.21.1"
 homepage = "https://github.com/sssemil/tokenizers-enfer"
 repository = "https://github.com/sssemil/tokenizers-enfers"
 documentation = "https://docs.rs/tokenizers/"
